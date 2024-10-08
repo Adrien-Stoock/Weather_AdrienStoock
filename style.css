@@ -1,0 +1,105 @@
+* {
+  font-family: "Rimouski";
+  box-sizing: border-box;
+}
+:root {
+  --color-main: #293251;
+  --color-main-dark80: color-mix(in oklab, var(--color-main) 80%, black);
+  --color-main-light10: color-mix(in oklab, var(--color-main) 10%, white);
+  --color-main-light40: color-mix(in oklab, var(--color-main) 40%, white);
+  --color-grey: #888;
+  --color-grey-dark80: color-mix(in oklab, var(--color-grey) 80%, black);
+  --color-grey-dark40: color-mix(in oklab, var(--color-grey) 40%, black);
+  --color-grey-light10: color-mix(in oklab, var(--color-grey) 10%, white);
+  --color-grey-light40: color-mix(in oklab, var(--color-grey) 40%, white);
+  --color-red: red;
+  --color-red-dark80: color-mix(in oklab, var(--color-red) 80%, black);
+  --color-red-dark40: color-mix(in oklab, var(--color-red) 40%, black);
+  --color-red-light10: color-mix(in oklab, var(--color-red) 10%, white);
+  --color-red-light40: color-mix(in oklab, var(--color-red) 40%, white);
+  --radius: 10px;
+}
+
+body {
+  background-color: var(--color-main);
+}
+
+.container {
+  width: 300px;
+  background-color: #fff;
+  display: block;
+  margin: 0 auto;
+  border-radius: var(--radius);
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.app-title {
+  width: 300px;
+  height: 50px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  padding: 15px;
+  margin: 0 auto;
+  font-size: 1.2em;
+  color: var(--color-main);
+}
+
+.weather-container {
+  width: 300px;
+  height: 260px;
+  background-color: #f4f9ff;
+  margin-bottom: 1rem;
+}
+
+.weather-icon {
+  width: 300px;
+  height: 128px;
+  display: block;
+  margin: 0 auto;
+}
+
+.temperature {
+  width: 300px;
+  height: 60px;
+  padding: 0;
+  margin: 0;
+  color: var(--color-main);
+  font-size: 4em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.temperature-type {
+  color: var(--color-main);
+  font-size: 0.5em;
+}
+
+.temperature-description {
+  padding: 8px;
+  margin: 0;
+  color: var(--color-main-light40);
+  font-size: 1.2rem;
+}
+
+.location {
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+  color: var(--color-main);
+}
+
+/* ***************************************************************/
+/* FORM STYLE ****************************************************/
+/* ***************************************************************/
+
+.search-form {
+  border: 1px solid var(--color-main);
+  border-radius: var(--radius);
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  padding: 2rem;
+  margin-inline: auto;
+  gap: 1rem;
+  background: var(--color-main-light10);
+}
