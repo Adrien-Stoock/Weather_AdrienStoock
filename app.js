@@ -1,1 +1,3 @@
-// votre code
+import countryCapitals from "./country-capitals";
+
+console.log(countryCapitals)
