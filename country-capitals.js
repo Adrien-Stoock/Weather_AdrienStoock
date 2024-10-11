@@ -5,7 +5,7 @@ export default [
     CapitalLatitude: "9.55",
     CapitalLongitude: "44.050000",
     CountryCode: "NULL",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "South Georgia and South Sandwich Islands",
@@ -13,7 +13,7 @@ export default [
     CapitalLatitude: "-54.283333",
     CapitalLongitude: "-36.500000",
     CountryCode: "GS",
-    ContinentName: "Antarctica"
+    ContinentName: "Antarctica",
   },
   {
     CountryName: "French Southern and Antarctic Lands",
@@ -21,7 +21,7 @@ export default [
     CapitalLatitude: "-49.35",
     CapitalLongitude: "70.216667",
     CountryCode: "TF",
-    ContinentName: "Antarctica"
+    ContinentName: "Antarctica",
   },
   {
     CountryName: "Palestine",
@@ -29,7 +29,7 @@ export default [
     CapitalLatitude: "31.766666666666666",
     CapitalLongitude: "35.233333",
     CountryCode: "PS",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Aland Islands",
@@ -37,7 +37,7 @@ export default [
     CapitalLatitude: "60.116667",
     CapitalLongitude: "19.900000",
     CountryCode: "AX",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Nauru",
@@ -45,7 +45,7 @@ export default [
     CapitalLatitude: "-0.5477",
     CapitalLongitude: "166.920867",
     CountryCode: "NR",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Saint Martin",
@@ -53,7 +53,7 @@ export default [
     CapitalLatitude: "18.0731",
     CapitalLongitude: "-63.082200",
     CountryCode: "MF",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Tokelau",
@@ -61,7 +61,7 @@ export default [
     CapitalLatitude: "-9.166667",
     CapitalLongitude: "-171.833333",
     CountryCode: "TK",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Western Sahara",
@@ -69,7 +69,7 @@ export default [
     CapitalLatitude: "27.153611",
     CapitalLongitude: "-13.203333",
     CountryCode: "EH",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Afghanistan",
@@ -77,7 +77,7 @@ export default [
     CapitalLatitude: "34.516666666666666",
     CapitalLongitude: "69.183333",
     CountryCode: "AF",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Albania",
@@ -85,7 +85,7 @@ export default [
     CapitalLatitude: "41.31666666666667",
     CapitalLongitude: "19.816667",
     CountryCode: "AL",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Algeria",
@@ -93,7 +93,7 @@ export default [
     CapitalLatitude: "36.75",
     CapitalLongitude: "3.050000",
     CountryCode: "DZ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "American Samoa",
@@ -101,7 +101,7 @@ export default [
     CapitalLatitude: "-14.266666666666667",
     CapitalLongitude: "-170.700000",
     CountryCode: "AS",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Andorra",
@@ -109,7 +109,7 @@ export default [
     CapitalLatitude: "42.5",
     CapitalLongitude: "1.516667",
     CountryCode: "AD",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Angola",
@@ -117,7 +117,7 @@ export default [
     CapitalLatitude: "-8.833333333333334",
     CapitalLongitude: "13.216667",
     CountryCode: "AO",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Anguilla",
@@ -125,7 +125,7 @@ export default [
     CapitalLatitude: "18.216666666666665",
     CapitalLongitude: "-63.050000",
     CountryCode: "AI",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Antigua and Barbuda",
@@ -133,7 +133,7 @@ export default [
     CapitalLatitude: "17.116666666666667",
     CapitalLongitude: "-61.850000",
     CountryCode: "AG",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Argentina",
@@ -141,7 +141,7 @@ export default [
     CapitalLatitude: "-34.583333333333336",
     CapitalLongitude: "-58.666667",
     CountryCode: "AR",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Armenia",
@@ -149,7 +149,7 @@ export default [
     CapitalLatitude: "40.166666666666664",
     CapitalLongitude: "44.500000",
     CountryCode: "AM",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Aruba",
@@ -157,7 +157,7 @@ export default [
     CapitalLatitude: "12.516666666666667",
     CapitalLongitude: "-70.033333",
     CountryCode: "AW",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Australia",
@@ -165,7 +165,7 @@ export default [
     CapitalLatitude: "-35.266666666666666",
     CapitalLongitude: "149.133333",
     CountryCode: "AU",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Austria",
@@ -173,7 +173,7 @@ export default [
     CapitalLatitude: "48.2",
     CapitalLongitude: "16.366667",
     CountryCode: "AT",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Azerbaijan",
@@ -181,7 +181,7 @@ export default [
     CapitalLatitude: "40.38333333333333",
     CapitalLongitude: "49.866667",
     CountryCode: "AZ",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Bahamas",
@@ -189,7 +189,7 @@ export default [
     CapitalLatitude: "25.083333333333332",
     CapitalLongitude: "-77.350000",
     CountryCode: "BS",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Bahrain",
@@ -197,7 +197,7 @@ export default [
     CapitalLatitude: "26.233333333333334",
     CapitalLongitude: "50.566667",
     CountryCode: "BH",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Bangladesh",
@@ -205,7 +205,7 @@ export default [
     CapitalLatitude: "23.716666666666665",
     CapitalLongitude: "90.400000",
     CountryCode: "BD",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Barbados",
@@ -213,7 +213,7 @@ export default [
     CapitalLatitude: "13.1",
     CapitalLongitude: "-59.616667",
     CountryCode: "BB",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Belarus",
@@ -221,7 +221,7 @@ export default [
     CapitalLatitude: "53.9",
     CapitalLongitude: "27.566667",
     CountryCode: "BY",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Belgium",
@@ -229,7 +229,7 @@ export default [
     CapitalLatitude: "50.833333333333336",
     CapitalLongitude: "4.333333",
     CountryCode: "BE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Belize",
@@ -237,7 +237,7 @@ export default [
     CapitalLatitude: "17.25",
     CapitalLongitude: "-88.766667",
     CountryCode: "BZ",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Benin",
@@ -245,7 +245,7 @@ export default [
     CapitalLatitude: "6.483333333333333",
     CapitalLongitude: "2.616667",
     CountryCode: "BJ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Bermuda",
@@ -253,7 +253,7 @@ export default [
     CapitalLatitude: "32.28333333333333",
     CapitalLongitude: "-64.783333",
     CountryCode: "BM",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Bhutan",
@@ -261,7 +261,7 @@ export default [
     CapitalLatitude: "27.466666666666665",
     CapitalLongitude: "89.633333",
     CountryCode: "BT",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Bolivia",
@@ -269,7 +269,7 @@ export default [
     CapitalLatitude: "-16.5",
     CapitalLongitude: "-68.150000",
     CountryCode: "BO",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Bosnia and Herzegovina",
@@ -277,7 +277,7 @@ export default [
     CapitalLatitude: "43.86666666666667",
     CapitalLongitude: "18.416667",
     CountryCode: "BA",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Botswana",
@@ -285,7 +285,7 @@ export default [
     CapitalLatitude: "-24.633333333333333",
     CapitalLongitude: "25.900000",
     CountryCode: "BW",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Brazil",
@@ -293,7 +293,7 @@ export default [
     CapitalLatitude: "-15.783333333333333",
     CapitalLongitude: "-47.916667",
     CountryCode: "BR",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "British Virgin Islands",
@@ -301,7 +301,7 @@ export default [
     CapitalLatitude: "18.416666666666668",
     CapitalLongitude: "-64.616667",
     CountryCode: "VG",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Brunei Darussalam",
@@ -309,7 +309,7 @@ export default [
     CapitalLatitude: "4.883333333333333",
     CapitalLongitude: "114.933333",
     CountryCode: "BN",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Bulgaria",
@@ -317,7 +317,7 @@ export default [
     CapitalLatitude: "42.68333333333333",
     CapitalLongitude: "23.316667",
     CountryCode: "BG",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Burkina Faso",
@@ -325,7 +325,7 @@ export default [
     CapitalLatitude: "12.366666666666667",
     CapitalLongitude: "-1.516667",
     CountryCode: "BF",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Myanmar",
@@ -333,7 +333,7 @@ export default [
     CapitalLatitude: "16.8",
     CapitalLongitude: "96.150000",
     CountryCode: "MM",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Burundi",
@@ -341,7 +341,7 @@ export default [
     CapitalLatitude: "-3.3666666666666667",
     CapitalLongitude: "29.350000",
     CountryCode: "BI",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Cambodia",
@@ -349,7 +349,7 @@ export default [
     CapitalLatitude: "11.55",
     CapitalLongitude: "104.916667",
     CountryCode: "KH",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Cameroon",
@@ -357,7 +357,7 @@ export default [
     CapitalLatitude: "3.8666666666666667",
     CapitalLongitude: "11.516667",
     CountryCode: "CM",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Canada",
@@ -365,7 +365,7 @@ export default [
     CapitalLatitude: "45.416666666666664",
     CapitalLongitude: "-75.700000",
     CountryCode: "CA",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Cape Verde",
@@ -373,7 +373,7 @@ export default [
     CapitalLatitude: "14.916666666666666",
     CapitalLongitude: "-23.516667",
     CountryCode: "CV",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Cayman Islands",
@@ -381,7 +381,7 @@ export default [
     CapitalLatitude: "19.3",
     CapitalLongitude: "-81.383333",
     CountryCode: "KY",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Central African Republic",
@@ -389,7 +389,7 @@ export default [
     CapitalLatitude: "4.366666666666666",
     CapitalLongitude: "18.583333",
     CountryCode: "CF",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Chad",
@@ -397,7 +397,7 @@ export default [
     CapitalLatitude: "12.1",
     CapitalLongitude: "15.033333",
     CountryCode: "TD",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Chile",
@@ -405,7 +405,7 @@ export default [
     CapitalLatitude: "-33.45",
     CapitalLongitude: "-70.666667",
     CountryCode: "CL",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "China",
@@ -413,7 +413,7 @@ export default [
     CapitalLatitude: "39.916666666666664",
     CapitalLongitude: "116.383333",
     CountryCode: "CN",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Christmas Island",
@@ -421,7 +421,7 @@ export default [
     CapitalLatitude: "-10.416666666666666",
     CapitalLongitude: "105.716667",
     CountryCode: "CX",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Cocos Islands",
@@ -429,7 +429,7 @@ export default [
     CapitalLatitude: "-12.166666666666666",
     CapitalLongitude: "96.833333",
     CountryCode: "CC",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Colombia",
@@ -437,7 +437,7 @@ export default [
     CapitalLatitude: "4.6",
     CapitalLongitude: "-74.083333",
     CountryCode: "CO",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Comoros",
@@ -445,7 +445,7 @@ export default [
     CapitalLatitude: "-11.7",
     CapitalLongitude: "43.233333",
     CountryCode: "KM",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Democratic Republic of the Congo",
@@ -453,7 +453,7 @@ export default [
     CapitalLatitude: "-4.316666666666666",
     CapitalLongitude: "15.300000",
     CountryCode: "CD",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Republic of Congo",
@@ -461,7 +461,7 @@ export default [
     CapitalLatitude: "-4.25",
     CapitalLongitude: "15.283333",
     CountryCode: "CG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Cook Islands",
@@ -469,7 +469,7 @@ export default [
     CapitalLatitude: "-21.2",
     CapitalLongitude: "-159.766667",
     CountryCode: "CK",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Costa Rica",
@@ -477,7 +477,7 @@ export default [
     CapitalLatitude: "9.933333333333334",
     CapitalLongitude: "-84.083333",
     CountryCode: "CR",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Cote d'Ivoire",
@@ -485,7 +485,7 @@ export default [
     CapitalLatitude: "6.816666666666666",
     CapitalLongitude: "-5.266667",
     CountryCode: "CI",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Croatia",
@@ -493,7 +493,7 @@ export default [
     CapitalLatitude: "45.8",
     CapitalLongitude: "16.000000",
     CountryCode: "HR",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Cuba",
@@ -501,7 +501,7 @@ export default [
     CapitalLatitude: "23.116666666666667",
     CapitalLongitude: "-82.350000",
     CountryCode: "CU",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Curaço",
@@ -509,7 +509,7 @@ export default [
     CapitalLatitude: "12.1",
     CapitalLongitude: "-68.916667",
     CountryCode: "CW",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Cyprus",
@@ -517,7 +517,7 @@ export default [
     CapitalLatitude: "35.166666666666664",
     CapitalLongitude: "33.366667",
     CountryCode: "CY",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Czech Republic",
@@ -525,7 +525,7 @@ export default [
     CapitalLatitude: "50.083333333333336",
     CapitalLongitude: "14.466667",
     CountryCode: "CZ",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Denmark",
@@ -533,7 +533,7 @@ export default [
     CapitalLatitude: "55.666666666666664",
     CapitalLongitude: "12.583333",
     CountryCode: "DK",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Djibouti",
@@ -541,7 +541,7 @@ export default [
     CapitalLatitude: "11.583333333333334",
     CapitalLongitude: "43.150000",
     CountryCode: "DJ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Dominica",
@@ -549,7 +549,7 @@ export default [
     CapitalLatitude: "15.3",
     CapitalLongitude: "-61.400000",
     CountryCode: "DM",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Dominican Republic",
@@ -557,7 +557,7 @@ export default [
     CapitalLatitude: "18.466666666666665",
     CapitalLongitude: "-69.900000",
     CountryCode: "DO",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Ecuador",
@@ -565,7 +565,7 @@ export default [
     CapitalLatitude: "-0.21666666666666667",
     CapitalLongitude: "-78.500000",
     CountryCode: "EC",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Egypt",
@@ -573,7 +573,7 @@ export default [
     CapitalLatitude: "30.05",
     CapitalLongitude: "31.250000",
     CountryCode: "EG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "El Salvador",
@@ -581,7 +581,7 @@ export default [
     CapitalLatitude: "13.7",
     CapitalLongitude: "-89.200000",
     CountryCode: "SV",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Equatorial Guinea",
@@ -589,7 +589,7 @@ export default [
     CapitalLatitude: "3.75",
     CapitalLongitude: "8.783333",
     CountryCode: "GQ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Eritrea",
@@ -597,7 +597,7 @@ export default [
     CapitalLatitude: "15.333333333333334",
     CapitalLongitude: "38.933333",
     CountryCode: "ER",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Estonia",
@@ -605,7 +605,7 @@ export default [
     CapitalLatitude: "59.43333333333333",
     CapitalLongitude: "24.716667",
     CountryCode: "EE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Ethiopia",
@@ -613,7 +613,7 @@ export default [
     CapitalLatitude: "9.033333333333333",
     CapitalLongitude: "38.700000",
     CountryCode: "ET",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Falkland Islands",
@@ -621,7 +621,7 @@ export default [
     CapitalLatitude: "-51.7",
     CapitalLongitude: "-57.850000",
     CountryCode: "FK",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Faroe Islands",
@@ -629,7 +629,7 @@ export default [
     CapitalLatitude: "62",
     CapitalLongitude: "-6.766667",
     CountryCode: "FO",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Fiji",
@@ -637,7 +637,7 @@ export default [
     CapitalLatitude: "-18.133333333333333",
     CapitalLongitude: "178.416667",
     CountryCode: "FJ",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Finland",
@@ -645,7 +645,7 @@ export default [
     CapitalLatitude: "60.166666666666664",
     CapitalLongitude: "24.933333",
     CountryCode: "FI",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "France",
@@ -653,7 +653,7 @@ export default [
     CapitalLatitude: "48.86666666666667",
     CapitalLongitude: "2.333333",
     CountryCode: "FR",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "French Polynesia",
@@ -661,7 +661,7 @@ export default [
     CapitalLatitude: "-17.533333333333335",
     CapitalLongitude: "-149.566667",
     CountryCode: "PF",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Gabon",
@@ -669,7 +669,7 @@ export default [
     CapitalLatitude: "0.38333333333333336",
     CapitalLongitude: "9.450000",
     CountryCode: "GA",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "The Gambia",
@@ -677,7 +677,7 @@ export default [
     CapitalLatitude: "13.45",
     CapitalLongitude: "-16.566667",
     CountryCode: "GM",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Georgia",
@@ -685,7 +685,7 @@ export default [
     CapitalLatitude: "41.68333333333333",
     CapitalLongitude: "44.833333",
     CountryCode: "GE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Germany",
@@ -693,7 +693,7 @@ export default [
     CapitalLatitude: "52.516666666666666",
     CapitalLongitude: "13.400000",
     CountryCode: "DE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Ghana",
@@ -701,7 +701,7 @@ export default [
     CapitalLatitude: "5.55",
     CapitalLongitude: "-0.216667",
     CountryCode: "GH",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Gibraltar",
@@ -709,7 +709,7 @@ export default [
     CapitalLatitude: "36.13333333333333",
     CapitalLongitude: "-5.350000",
     CountryCode: "GI",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Greece",
@@ -717,7 +717,7 @@ export default [
     CapitalLatitude: "37.983333333333334",
     CapitalLongitude: "23.733333",
     CountryCode: "GR",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Greenland",
@@ -725,7 +725,7 @@ export default [
     CapitalLatitude: "64.18333333333334",
     CapitalLongitude: "-51.750000",
     CountryCode: "GL",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Grenada",
@@ -733,7 +733,7 @@ export default [
     CapitalLatitude: "12.05",
     CapitalLongitude: "-61.750000",
     CountryCode: "GD",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Guam",
@@ -741,7 +741,7 @@ export default [
     CapitalLatitude: "13.466666666666667",
     CapitalLongitude: "144.733333",
     CountryCode: "GU",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Guatemala",
@@ -749,7 +749,7 @@ export default [
     CapitalLatitude: "14.616666666666667",
     CapitalLongitude: "-90.516667",
     CountryCode: "GT",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Guernsey",
@@ -757,7 +757,7 @@ export default [
     CapitalLatitude: "49.45",
     CapitalLongitude: "-2.533333",
     CountryCode: "GG",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Guinea",
@@ -765,7 +765,7 @@ export default [
     CapitalLatitude: "9.5",
     CapitalLongitude: "-13.700000",
     CountryCode: "GN",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Guinea-Bissau",
@@ -773,7 +773,7 @@ export default [
     CapitalLatitude: "11.85",
     CapitalLongitude: "-15.583333",
     CountryCode: "GW",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Guyana",
@@ -781,7 +781,7 @@ export default [
     CapitalLatitude: "6.8",
     CapitalLongitude: "-58.150000",
     CountryCode: "GY",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Haiti",
@@ -789,7 +789,7 @@ export default [
     CapitalLatitude: "18.533333333333335",
     CapitalLongitude: "-72.333333",
     CountryCode: "HT",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Vatican City",
@@ -797,7 +797,7 @@ export default [
     CapitalLatitude: "41.9",
     CapitalLongitude: "12.450000",
     CountryCode: "VA",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Honduras",
@@ -805,7 +805,7 @@ export default [
     CapitalLatitude: "14.1",
     CapitalLongitude: "-87.216667",
     CountryCode: "HN",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Hungary",
@@ -813,7 +813,7 @@ export default [
     CapitalLatitude: "47.5",
     CapitalLongitude: "19.083333",
     CountryCode: "HU",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Iceland",
@@ -821,7 +821,7 @@ export default [
     CapitalLatitude: "64.15",
     CapitalLongitude: "-21.950000",
     CountryCode: "IS",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "India",
@@ -829,7 +829,7 @@ export default [
     CapitalLatitude: "28.6",
     CapitalLongitude: "77.200000",
     CountryCode: "IN",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Indonesia",
@@ -837,7 +837,7 @@ export default [
     CapitalLatitude: "-6.166666666666667",
     CapitalLongitude: "106.816667",
     CountryCode: "ID",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Iran",
@@ -845,7 +845,7 @@ export default [
     CapitalLatitude: "35.7",
     CapitalLongitude: "51.416667",
     CountryCode: "IR",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Iraq",
@@ -853,7 +853,7 @@ export default [
     CapitalLatitude: "33.333333333333336",
     CapitalLongitude: "44.400000",
     CountryCode: "IQ",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Ireland",
@@ -861,7 +861,7 @@ export default [
     CapitalLatitude: "53.31666666666667",
     CapitalLongitude: "-6.233333",
     CountryCode: "IE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Isle of Man",
@@ -869,7 +869,7 @@ export default [
     CapitalLatitude: "54.15",
     CapitalLongitude: "-4.483333",
     CountryCode: "IM",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Israel",
@@ -877,7 +877,7 @@ export default [
     CapitalLatitude: "31.766666666666666",
     CapitalLongitude: "35.233333",
     CountryCode: "IL",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Italy",
@@ -885,7 +885,7 @@ export default [
     CapitalLatitude: "41.9",
     CapitalLongitude: "12.483333",
     CountryCode: "IT",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Jamaica",
@@ -893,7 +893,7 @@ export default [
     CapitalLatitude: "18",
     CapitalLongitude: "-76.800000",
     CountryCode: "JM",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Japan",
@@ -901,7 +901,7 @@ export default [
     CapitalLatitude: "35.68333333333333",
     CapitalLongitude: "139.750000",
     CountryCode: "JP",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Jersey",
@@ -909,7 +909,7 @@ export default [
     CapitalLatitude: "49.18333333333333",
     CapitalLongitude: "-2.100000",
     CountryCode: "JE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Jordan",
@@ -917,7 +917,7 @@ export default [
     CapitalLatitude: "31.95",
     CapitalLongitude: "35.933333",
     CountryCode: "JO",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Kazakhstan",
@@ -925,7 +925,7 @@ export default [
     CapitalLatitude: "51.166666666666664",
     CapitalLongitude: "71.416667",
     CountryCode: "KZ",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Kenya",
@@ -933,7 +933,7 @@ export default [
     CapitalLatitude: "-1.2833333333333332",
     CapitalLongitude: "36.816667",
     CountryCode: "KE",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Kiribati",
@@ -941,7 +941,7 @@ export default [
     CapitalLatitude: "-0.8833333333333333",
     CapitalLongitude: "169.533333",
     CountryCode: "KI",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "North Korea",
@@ -949,7 +949,7 @@ export default [
     CapitalLatitude: "39.016666666666666",
     CapitalLongitude: "125.750000",
     CountryCode: "KP",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "South Korea",
@@ -957,7 +957,7 @@ export default [
     CapitalLatitude: "37.55",
     CapitalLongitude: "126.983333",
     CountryCode: "KR",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Kosovo",
@@ -965,7 +965,7 @@ export default [
     CapitalLatitude: "42.666666666666664",
     CapitalLongitude: "21.166667",
     CountryCode: "KO",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Kuwait",
@@ -973,7 +973,7 @@ export default [
     CapitalLatitude: "29.366666666666667",
     CapitalLongitude: "47.966667",
     CountryCode: "KW",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Kyrgyzstan",
@@ -981,7 +981,7 @@ export default [
     CapitalLatitude: "42.86666666666667",
     CapitalLongitude: "74.600000",
     CountryCode: "KG",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Laos",
@@ -989,7 +989,7 @@ export default [
     CapitalLatitude: "17.966666666666665",
     CapitalLongitude: "102.600000",
     CountryCode: "LA",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Latvia",
@@ -997,7 +997,7 @@ export default [
     CapitalLatitude: "56.95",
     CapitalLongitude: "24.100000",
     CountryCode: "LV",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Lebanon",
@@ -1005,7 +1005,7 @@ export default [
     CapitalLatitude: "33.86666666666667",
     CapitalLongitude: "35.500000",
     CountryCode: "LB",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Lesotho",
@@ -1013,7 +1013,7 @@ export default [
     CapitalLatitude: "-29.316666666666666",
     CapitalLongitude: "27.483333",
     CountryCode: "LS",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Liberia",
@@ -1021,7 +1021,7 @@ export default [
     CapitalLatitude: "6.3",
     CapitalLongitude: "-10.800000",
     CountryCode: "LR",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Libya",
@@ -1029,7 +1029,7 @@ export default [
     CapitalLatitude: "32.88333333333333",
     CapitalLongitude: "13.166667",
     CountryCode: "LY",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Liechtenstein",
@@ -1037,7 +1037,7 @@ export default [
     CapitalLatitude: "47.13333333333333",
     CapitalLongitude: "9.516667",
     CountryCode: "LI",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Lithuania",
@@ -1045,7 +1045,7 @@ export default [
     CapitalLatitude: "54.68333333333333",
     CapitalLongitude: "25.316667",
     CountryCode: "LT",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Luxembourg",
@@ -1053,7 +1053,7 @@ export default [
     CapitalLatitude: "49.6",
     CapitalLongitude: "6.116667",
     CountryCode: "LU",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Macedonia",
@@ -1061,7 +1061,7 @@ export default [
     CapitalLatitude: "42",
     CapitalLongitude: "21.433333",
     CountryCode: "MK",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Madagascar",
@@ -1069,7 +1069,7 @@ export default [
     CapitalLatitude: "-18.916666666666668",
     CapitalLongitude: "47.516667",
     CountryCode: "MG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Malawi",
@@ -1077,7 +1077,7 @@ export default [
     CapitalLatitude: "-13.966666666666667",
     CapitalLongitude: "33.783333",
     CountryCode: "MW",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Malaysia",
@@ -1085,7 +1085,7 @@ export default [
     CapitalLatitude: "3.1666666666666665",
     CapitalLongitude: "101.700000",
     CountryCode: "MY",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Maldives",
@@ -1093,7 +1093,7 @@ export default [
     CapitalLatitude: "4.166666666666667",
     CapitalLongitude: "73.500000",
     CountryCode: "MV",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Mali",
@@ -1101,7 +1101,7 @@ export default [
     CapitalLatitude: "12.65",
     CapitalLongitude: "-8.000000",
     CountryCode: "ML",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Malta",
@@ -1109,7 +1109,7 @@ export default [
     CapitalLatitude: "35.88333333333333",
     CapitalLongitude: "14.500000",
     CountryCode: "MT",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Marshall Islands",
@@ -1117,7 +1117,7 @@ export default [
     CapitalLatitude: "7.1",
     CapitalLongitude: "171.383333",
     CountryCode: "MH",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Mauritania",
@@ -1125,7 +1125,7 @@ export default [
     CapitalLatitude: "18.066666666666666",
     CapitalLongitude: "-15.966667",
     CountryCode: "MR",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Mauritius",
@@ -1133,7 +1133,7 @@ export default [
     CapitalLatitude: "-20.15",
     CapitalLongitude: "57.483333",
     CountryCode: "MU",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Mexico",
@@ -1141,7 +1141,7 @@ export default [
     CapitalLatitude: "19.433333333333334",
     CapitalLongitude: "-99.133333",
     CountryCode: "MX",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Federated States of Micronesia",
@@ -1149,7 +1149,7 @@ export default [
     CapitalLatitude: "6.916666666666667",
     CapitalLongitude: "158.150000",
     CountryCode: "FM",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Moldova",
@@ -1157,7 +1157,7 @@ export default [
     CapitalLatitude: "47",
     CapitalLongitude: "28.850000",
     CountryCode: "MD",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Monaco",
@@ -1165,7 +1165,7 @@ export default [
     CapitalLatitude: "43.733333333333334",
     CapitalLongitude: "7.416667",
     CountryCode: "MC",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Mongolia",
@@ -1173,7 +1173,7 @@ export default [
     CapitalLatitude: "47.916666666666664",
     CapitalLongitude: "106.916667",
     CountryCode: "MN",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Montenegro",
@@ -1181,7 +1181,7 @@ export default [
     CapitalLatitude: "42.43333333333333",
     CapitalLongitude: "19.266667",
     CountryCode: "ME",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Montserrat",
@@ -1189,7 +1189,7 @@ export default [
     CapitalLatitude: "16.7",
     CapitalLongitude: "-62.216667",
     CountryCode: "MS",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Morocco",
@@ -1197,7 +1197,7 @@ export default [
     CapitalLatitude: "34.016666666666666",
     CapitalLongitude: "-6.816667",
     CountryCode: "MA",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Mozambique",
@@ -1205,7 +1205,7 @@ export default [
     CapitalLatitude: "-25.95",
     CapitalLongitude: "32.583333",
     CountryCode: "MZ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Namibia",
@@ -1213,7 +1213,7 @@ export default [
     CapitalLatitude: "-22.566666666666666",
     CapitalLongitude: "17.083333",
     CountryCode: "NA",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Nepal",
@@ -1221,7 +1221,7 @@ export default [
     CapitalLatitude: "27.716666666666665",
     CapitalLongitude: "85.316667",
     CountryCode: "NP",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Netherlands",
@@ -1229,7 +1229,7 @@ export default [
     CapitalLatitude: "52.35",
     CapitalLongitude: "4.916667",
     CountryCode: "NL",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "New Caledonia",
@@ -1237,7 +1237,7 @@ export default [
     CapitalLatitude: "-22.266666666666666",
     CapitalLongitude: "166.450000",
     CountryCode: "NC",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "New Zealand",
@@ -1245,7 +1245,7 @@ export default [
     CapitalLatitude: "-41.3",
     CapitalLongitude: "174.783333",
     CountryCode: "NZ",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Nicaragua",
@@ -1253,7 +1253,7 @@ export default [
     CapitalLatitude: "12.133333333333333",
     CapitalLongitude: "-86.250000",
     CountryCode: "NI",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Niger",
@@ -1261,7 +1261,7 @@ export default [
     CapitalLatitude: "13.516666666666667",
     CapitalLongitude: "2.116667",
     CountryCode: "NE",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Nigeria",
@@ -1269,7 +1269,7 @@ export default [
     CapitalLatitude: "9.083333333333334",
     CapitalLongitude: "7.533333",
     CountryCode: "NG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Niue",
@@ -1277,7 +1277,7 @@ export default [
     CapitalLatitude: "-19.016666666666666",
     CapitalLongitude: "-169.916667",
     CountryCode: "NU",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Norfolk Island",
@@ -1285,7 +1285,7 @@ export default [
     CapitalLatitude: "-29.05",
     CapitalLongitude: "167.966667",
     CountryCode: "NF",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Northern Mariana Islands",
@@ -1293,7 +1293,7 @@ export default [
     CapitalLatitude: "15.2",
     CapitalLongitude: "145.750000",
     CountryCode: "MP",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Norway",
@@ -1301,7 +1301,7 @@ export default [
     CapitalLatitude: "59.916666666666664",
     CapitalLongitude: "10.750000",
     CountryCode: "NO",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Oman",
@@ -1309,7 +1309,7 @@ export default [
     CapitalLatitude: "23.616666666666667",
     CapitalLongitude: "58.583333",
     CountryCode: "OM",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Pakistan",
@@ -1317,7 +1317,7 @@ export default [
     CapitalLatitude: "33.68333333333333",
     CapitalLongitude: "73.050000",
     CountryCode: "PK",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Palau",
@@ -1325,7 +1325,7 @@ export default [
     CapitalLatitude: "7.483333333333333",
     CapitalLongitude: "134.633333",
     CountryCode: "PW",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Panama",
@@ -1333,7 +1333,7 @@ export default [
     CapitalLatitude: "8.966666666666667",
     CapitalLongitude: "-79.533333",
     CountryCode: "PA",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Papua New Guinea",
@@ -1341,7 +1341,7 @@ export default [
     CapitalLatitude: "-9.45",
     CapitalLongitude: "147.183333",
     CountryCode: "PG",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Paraguay",
@@ -1349,7 +1349,7 @@ export default [
     CapitalLatitude: "-25.266666666666666",
     CapitalLongitude: "-57.666667",
     CountryCode: "PY",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Peru",
@@ -1357,7 +1357,7 @@ export default [
     CapitalLatitude: "-12.05",
     CapitalLongitude: "-77.050000",
     CountryCode: "PE",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Philippines",
@@ -1365,7 +1365,7 @@ export default [
     CapitalLatitude: "14.6",
     CapitalLongitude: "120.966667",
     CountryCode: "PH",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Pitcairn Islands",
@@ -1373,7 +1373,7 @@ export default [
     CapitalLatitude: "-25.066666666666666",
     CapitalLongitude: "-130.083333",
     CountryCode: "PN",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Poland",
@@ -1381,7 +1381,7 @@ export default [
     CapitalLatitude: "52.25",
     CapitalLongitude: "21.000000",
     CountryCode: "PL",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Portugal",
@@ -1389,7 +1389,7 @@ export default [
     CapitalLatitude: "38.71666666666667",
     CapitalLongitude: "-9.133333",
     CountryCode: "PT",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Puerto Rico",
@@ -1397,7 +1397,7 @@ export default [
     CapitalLatitude: "18.466666666666665",
     CapitalLongitude: "-66.116667",
     CountryCode: "PR",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Qatar",
@@ -1405,7 +1405,7 @@ export default [
     CapitalLatitude: "25.283333333333335",
     CapitalLongitude: "51.533333",
     CountryCode: "QA",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Romania",
@@ -1413,7 +1413,7 @@ export default [
     CapitalLatitude: "44.43333333333333",
     CapitalLongitude: "26.100000",
     CountryCode: "RO",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Russia",
@@ -1421,7 +1421,7 @@ export default [
     CapitalLatitude: "55.75",
     CapitalLongitude: "37.600000",
     CountryCode: "RU",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Rwanda",
@@ -1429,7 +1429,7 @@ export default [
     CapitalLatitude: "-1.95",
     CapitalLongitude: "30.050000",
     CountryCode: "RW",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Saint Barthelemy",
@@ -1437,7 +1437,7 @@ export default [
     CapitalLatitude: "17.883333333333333",
     CapitalLongitude: "-62.850000",
     CountryCode: "BL",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Saint Helena",
@@ -1445,7 +1445,7 @@ export default [
     CapitalLatitude: "-15.933333333333334",
     CapitalLongitude: "-5.716667",
     CountryCode: "SH",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Saint Kitts and Nevis",
@@ -1453,7 +1453,7 @@ export default [
     CapitalLatitude: "17.3",
     CapitalLongitude: "-62.716667",
     CountryCode: "KN",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Saint Lucia",
@@ -1461,7 +1461,7 @@ export default [
     CapitalLatitude: "14",
     CapitalLongitude: "-61.000000",
     CountryCode: "LC",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Saint Pierre and Miquelon",
@@ -1469,7 +1469,7 @@ export default [
     CapitalLatitude: "46.766666666666666",
     CapitalLongitude: "-56.183333",
     CountryCode: "PM",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Saint Vincent and the Grenadines",
@@ -1477,7 +1477,7 @@ export default [
     CapitalLatitude: "13.133333333333333",
     CapitalLongitude: "-61.216667",
     CountryCode: "VC",
-    ContinentName: "Central America"
+    ContinentName: "Central America",
   },
   {
     CountryName: "Samoa",
@@ -1485,7 +1485,7 @@ export default [
     CapitalLatitude: "-13.816666666666666",
     CapitalLongitude: "-171.766667",
     CountryCode: "WS",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "San Marino",
@@ -1493,7 +1493,7 @@ export default [
     CapitalLatitude: "43.93333333333333",
     CapitalLongitude: "12.416667",
     CountryCode: "SM",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Sao Tome and Principe",
@@ -1501,7 +1501,7 @@ export default [
     CapitalLatitude: "0.3333333333333333",
     CapitalLongitude: "6.733333",
     CountryCode: "ST",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Saudi Arabia",
@@ -1509,7 +1509,7 @@ export default [
     CapitalLatitude: "24.65",
     CapitalLongitude: "46.700000",
     CountryCode: "SA",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Senegal",
@@ -1517,7 +1517,7 @@ export default [
     CapitalLatitude: "14.733333333333333",
     CapitalLongitude: "-17.633333",
     CountryCode: "SN",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Serbia",
@@ -1525,7 +1525,7 @@ export default [
     CapitalLatitude: "44.833333333333336",
     CapitalLongitude: "20.500000",
     CountryCode: "RS",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Seychelles",
@@ -1533,7 +1533,7 @@ export default [
     CapitalLatitude: "-4.616666666666667",
     CapitalLongitude: "55.450000",
     CountryCode: "SC",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Sierra Leone",
@@ -1541,7 +1541,7 @@ export default [
     CapitalLatitude: "8.483333333333333",
     CapitalLongitude: "-13.233333",
     CountryCode: "SL",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Singapore",
@@ -1549,7 +1549,7 @@ export default [
     CapitalLatitude: "1.2833333333333332",
     CapitalLongitude: "103.850000",
     CountryCode: "SG",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Sint Maarten",
@@ -1557,7 +1557,7 @@ export default [
     CapitalLatitude: "18.016666666666666",
     CapitalLongitude: "-63.033333",
     CountryCode: "SX",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Slovakia",
@@ -1565,7 +1565,7 @@ export default [
     CapitalLatitude: "48.15",
     CapitalLongitude: "17.116667",
     CountryCode: "SK",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Slovenia",
@@ -1573,7 +1573,7 @@ export default [
     CapitalLatitude: "46.05",
     CapitalLongitude: "14.516667",
     CountryCode: "SI",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Solomon Islands",
@@ -1581,7 +1581,7 @@ export default [
     CapitalLatitude: "-9.433333333333334",
     CapitalLongitude: "159.950000",
     CountryCode: "SB",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Somalia",
@@ -1589,7 +1589,7 @@ export default [
     CapitalLatitude: "2.066666666666667",
     CapitalLongitude: "45.333333",
     CountryCode: "SO",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "South Africa",
@@ -1597,7 +1597,7 @@ export default [
     CapitalLatitude: "-25.7",
     CapitalLongitude: "28.216667",
     CountryCode: "ZA",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "South Sudan",
@@ -1605,7 +1605,7 @@ export default [
     CapitalLatitude: "4.85",
     CapitalLongitude: "31.616667",
     CountryCode: "SS",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Spain",
@@ -1613,7 +1613,7 @@ export default [
     CapitalLatitude: "40.4",
     CapitalLongitude: "-3.683333",
     CountryCode: "ES",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Sri Lanka",
@@ -1621,7 +1621,7 @@ export default [
     CapitalLatitude: "6.916666666666667",
     CapitalLongitude: "79.833333",
     CountryCode: "LK",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Sudan",
@@ -1629,7 +1629,7 @@ export default [
     CapitalLatitude: "15.6",
     CapitalLongitude: "32.533333",
     CountryCode: "SD",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Suriname",
@@ -1637,7 +1637,7 @@ export default [
     CapitalLatitude: "5.833333333333333",
     CapitalLongitude: "-55.166667",
     CountryCode: "SR",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Svalbard",
@@ -1645,7 +1645,7 @@ export default [
     CapitalLatitude: "78.21666666666667",
     CapitalLongitude: "15.633333",
     CountryCode: "SJ",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Swaziland",
@@ -1653,7 +1653,7 @@ export default [
     CapitalLatitude: "-26.316666666666666",
     CapitalLongitude: "31.133333",
     CountryCode: "SZ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Sweden",
@@ -1661,7 +1661,7 @@ export default [
     CapitalLatitude: "59.333333333333336",
     CapitalLongitude: "18.050000",
     CountryCode: "SE",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Switzerland",
@@ -1669,7 +1669,7 @@ export default [
     CapitalLatitude: "46.916666666666664",
     CapitalLongitude: "7.466667",
     CountryCode: "CH",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Syria",
@@ -1677,7 +1677,7 @@ export default [
     CapitalLatitude: "33.5",
     CapitalLongitude: "36.300000",
     CountryCode: "SY",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Taiwan",
@@ -1685,7 +1685,7 @@ export default [
     CapitalLatitude: "25.033333333333335",
     CapitalLongitude: "121.516667",
     CountryCode: "TW",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Tajikistan",
@@ -1693,7 +1693,7 @@ export default [
     CapitalLatitude: "38.55",
     CapitalLongitude: "68.766667",
     CountryCode: "TJ",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Tanzania",
@@ -1701,7 +1701,7 @@ export default [
     CapitalLatitude: "-6.8",
     CapitalLongitude: "39.283333",
     CountryCode: "TZ",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Thailand",
@@ -1709,7 +1709,7 @@ export default [
     CapitalLatitude: "13.75",
     CapitalLongitude: "100.516667",
     CountryCode: "TH",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Timor-Leste",
@@ -1717,7 +1717,7 @@ export default [
     CapitalLatitude: "-8.583333333333334",
     CapitalLongitude: "125.600000",
     CountryCode: "TL",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Togo",
@@ -1725,7 +1725,7 @@ export default [
     CapitalLatitude: "6.116666666666666",
     CapitalLongitude: "1.216667",
     CountryCode: "TG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Tonga",
@@ -1733,7 +1733,7 @@ export default [
     CapitalLatitude: "-21.133333333333333",
     CapitalLongitude: "-175.200000",
     CountryCode: "TO",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Trinidad and Tobago",
@@ -1741,7 +1741,7 @@ export default [
     CapitalLatitude: "10.65",
     CapitalLongitude: "-61.516667",
     CountryCode: "TT",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Tunisia",
@@ -1749,7 +1749,7 @@ export default [
     CapitalLatitude: "36.8",
     CapitalLongitude: "10.183333",
     CountryCode: "TN",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Turkey",
@@ -1757,7 +1757,7 @@ export default [
     CapitalLatitude: "39.93333333333333",
     CapitalLongitude: "32.866667",
     CountryCode: "TR",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Turkmenistan",
@@ -1765,7 +1765,7 @@ export default [
     CapitalLatitude: "37.95",
     CapitalLongitude: "58.383333",
     CountryCode: "TM",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Turks and Caicos Islands",
@@ -1773,7 +1773,7 @@ export default [
     CapitalLatitude: "21.466666666666665",
     CapitalLongitude: "-71.133333",
     CountryCode: "TC",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Tuvalu",
@@ -1781,7 +1781,7 @@ export default [
     CapitalLatitude: "-8.516666666666667",
     CapitalLongitude: "179.216667",
     CountryCode: "TV",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Uganda",
@@ -1789,7 +1789,7 @@ export default [
     CapitalLatitude: "0.31666666666666665",
     CapitalLongitude: "32.550000",
     CountryCode: "UG",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Ukraine",
@@ -1797,7 +1797,7 @@ export default [
     CapitalLatitude: "50.43333333333333",
     CapitalLongitude: "30.516667",
     CountryCode: "UA",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "United Arab Emirates",
@@ -1805,7 +1805,7 @@ export default [
     CapitalLatitude: "24.466666666666665",
     CapitalLongitude: "54.366667",
     CountryCode: "AE",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "United Kingdom",
@@ -1813,7 +1813,7 @@ export default [
     CapitalLatitude: "51.5",
     CapitalLongitude: "-0.083333",
     CountryCode: "GB",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "United States",
@@ -1821,7 +1821,7 @@ export default [
     CapitalLatitude: "38.9071923",
     CapitalLongitude: "-77.0368707",
     CountryCode: "US",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Uruguay",
@@ -1829,7 +1829,7 @@ export default [
     CapitalLatitude: "-34.85",
     CapitalLongitude: "-56.166667",
     CountryCode: "UY",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Uzbekistan",
@@ -1837,7 +1837,7 @@ export default [
     CapitalLatitude: "41.31666666666667",
     CapitalLongitude: "69.250000",
     CountryCode: "UZ",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Vanuatu",
@@ -1845,7 +1845,7 @@ export default [
     CapitalLatitude: "-17.733333333333334",
     CapitalLongitude: "168.316667",
     CountryCode: "VU",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Venezuela",
@@ -1853,7 +1853,7 @@ export default [
     CapitalLatitude: "10.483333333333333",
     CapitalLongitude: "-66.866667",
     CountryCode: "VE",
-    ContinentName: "South America"
+    ContinentName: "South America",
   },
   {
     CountryName: "Vietnam",
@@ -1861,7 +1861,7 @@ export default [
     CapitalLatitude: "21.033333333333335",
     CapitalLongitude: "105.850000",
     CountryCode: "VN",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "US Virgin Islands",
@@ -1869,7 +1869,7 @@ export default [
     CapitalLatitude: "18.35",
     CapitalLongitude: "-64.933333",
     CountryCode: "VI",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Wallis and Futuna",
@@ -1877,7 +1877,7 @@ export default [
     CapitalLatitude: "-13.95",
     CapitalLongitude: "-171.933333",
     CountryCode: "WF",
-    ContinentName: "Australia"
+    ContinentName: "Australia",
   },
   {
     CountryName: "Yemen",
@@ -1885,7 +1885,7 @@ export default [
     CapitalLatitude: "15.35",
     CapitalLongitude: "44.200000",
     CountryCode: "YE",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Zambia",
@@ -1893,7 +1893,7 @@ export default [
     CapitalLatitude: "-15.416666666666666",
     CapitalLongitude: "28.283333",
     CountryCode: "ZM",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Zimbabwe",
@@ -1901,7 +1901,7 @@ export default [
     CapitalLatitude: "-17.816666666666666",
     CapitalLongitude: "31.033333",
     CountryCode: "ZW",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "US Minor Outlying Islands",
@@ -1909,7 +1909,7 @@ export default [
     CapitalLatitude: "38.883333",
     CapitalLongitude: "-77.000000",
     CountryCode: "UM",
-    ContinentName: "North America"
+    ContinentName: "North America",
   },
   {
     CountryName: "Antarctica",
@@ -1917,7 +1917,7 @@ export default [
     CapitalLatitude: "0",
     CapitalLongitude: "0.000000",
     CountryCode: "AQ",
-    ContinentName: "Antarctica"
+    ContinentName: "Antarctica",
   },
   {
     CountryName: "Northern Cyprus",
@@ -1925,7 +1925,7 @@ export default [
     CapitalLatitude: "35.183333",
     CapitalLongitude: "33.366667",
     CountryCode: "NULL",
-    ContinentName: "Europe"
+    ContinentName: "Europe",
   },
   {
     CountryName: "Hong Kong",
@@ -1933,7 +1933,7 @@ export default [
     CapitalLatitude: "0",
     CapitalLongitude: "0.000000",
     CountryCode: "HK",
-    ContinentName: "Asia"
+    ContinentName: "Asia",
   },
   {
     CountryName: "Heard Island and McDonald Islands",
@@ -1941,7 +1941,7 @@ export default [
     CapitalLatitude: "0",
     CapitalLongitude: "0.000000",
     CountryCode: "HM",
-    ContinentName: "Antarctica"
+    ContinentName: "Antarctica",
   },
   {
     CountryName: "British Indian Ocean Territory",
@@ -1949,7 +1949,7 @@ export default [
     CapitalLatitude: "-7.3",
     CapitalLongitude: "72.400000",
     CountryCode: "IO",
-    ContinentName: "Africa"
+    ContinentName: "Africa",
   },
   {
     CountryName: "Macau",
@@ -1957,6 +1957,6 @@ export default [
     CapitalLatitude: "0",
     CapitalLongitude: "0.000000",
     CountryCode: "MO",
-    ContinentName: "Asia"
-  }
+    ContinentName: "Asia",
+  },
 ];

@@ -104,24 +104,24 @@ body {
   background: var(--color-main-light10);
 }
 
-.search{
+.search {
   border-width: 1px solid;
   padding: 0.5em;
   border-color: lightgray;
   border-radius: 30px;
 }
 
-#submit{
+#submit {
   background-color: var(--color-main);
   color: white;
   border-radius: var(--radius);
 }
 
-#submit:hover{
-  background-color: white ;
+#submit:hover {
+  background-color: white;
   color: var(--color-main);
 }
 
-#message{
-  color:red;
+#message {
+  color: red;
 }
